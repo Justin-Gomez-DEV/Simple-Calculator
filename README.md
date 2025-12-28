@@ -1,7 +1,7 @@
 # 🖩 Simple JavaScript Calculator
 
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repo)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo)
+![GitHub top language](https://img.shields.io/github/languages/top/Justin-Gomez-DEV/Simple-Calculator)
+![GitHub repo size](https://img.shields.io/github/repo-size/Justin-Gomez-DEV/Simple-Calculator)
 
 A lightweight calculator built with **HTML, CSS, and JavaScript**. Supports basic arithmetic operations and demonstrates DOM manipulation and event handling.
 
@@ -48,3 +48,4 @@ A lightweight calculator built with **HTML, CSS, and JavaScript**. Supports basi
 - Event-driven logic using `addEventListener`  
 - Demonstrates practical use of booleans, DOM, and click events  
 - Perfect for beginners learning JavaScript interactivity
+
